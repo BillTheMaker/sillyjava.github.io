@@ -11,3 +11,5 @@ I'm a programmer, maker, homesteader, AI developer, and fan of the Oxford comma.
 * Hello World: Android app
 
 ## Links
+
+[LinkedIn](https://www.linkedin.com/in/william-holcombe-15559a183/)
