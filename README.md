@@ -6,9 +6,9 @@ I'm a programmer, maker, homesteader, AI developer, and fan of the Oxford comma.
 
 ## Current Projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](https://github.com/BillTheMaker/android-hello-world-billthemaker)
 
-* Hello World: Android app
+* [Hello World: Android app] (
 
 ## Links
 
