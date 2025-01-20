@@ -13,3 +13,9 @@ I'm a programmer, maker, homesteader, AI developer, and fan of the Oxford comma.
 ## Links
 
 [LinkedIn](https://www.linkedin.com/in/william-holcombe-15559a183/)
+
+> a Blockquote
+
+> 
+
+> another Blockquote
