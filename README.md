@@ -1,2 +1,7 @@
-# sillyjava
-Git practice for Java class
+# Bill
+
+## Introduction
+
+## Current Projects
+
+## Links
